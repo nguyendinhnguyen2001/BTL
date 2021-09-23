@@ -1,2 +1,2 @@
-# BTL
+# Python
 Facebook messenger bot
